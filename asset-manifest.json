@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fuasma2727/goit-react-hw-04-images/static/css/main.7acaea2f.css",
+    "main.js": "/Fuasma2727/goit-react-hw-04-images/static/js/main.a34643f0.js",
+    "index.html": "/Fuasma2727/goit-react-hw-04-images/index.html",
+    "main.7acaea2f.css.map": "/Fuasma2727/goit-react-hw-04-images/static/css/main.7acaea2f.css.map",
+    "main.a34643f0.js.map": "/Fuasma2727/goit-react-hw-04-images/static/js/main.a34643f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a34643f0.js"
+  ]
+}
